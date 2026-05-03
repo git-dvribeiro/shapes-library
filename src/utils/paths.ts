@@ -28,7 +28,7 @@ export function getLibraryRoot(): string {
   const prefs = getPreferenceValues<Prefs>();
   const configured =
     prefs.libraryPath && prefs.libraryPath.trim().length > 0 ? expandUserPath(prefs.libraryPath) : undefined;
-  const base = configured || environment.supportPath;
+  const base = configured || environment.assetsPath;
   try {
     if (!existsSync(base)) mkdirSync(base, { recursive: true });
   } catch (e) {
