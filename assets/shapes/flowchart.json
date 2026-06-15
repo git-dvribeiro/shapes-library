@@ -68,5 +68,31 @@
     },
     "nativePptx": "native/shape_captured_1764076389162.pptx",
     "nativeOnly": true
+  },
+  {
+    "id": "captured-rounded-rectangle-198-mls1of46",
+    "name": "Jornada com gates",
+    "category": "flowchart",
+    "description": "Captured from IT M&A",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "rounded",
+      "198"
+    ],
+    "preview": "flowchart/captured-rounded-rectangle-198-mls1of46.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 5.059,
+      "y": 4.741,
+      "w": 3.054,
+      "h": 1.106,
+      "adj": [
+        0.137
+      ]
+    },
+    "nativePptx": "native/shape_captured_1771419908614.pptx",
+    "nativeOnly": true
   }
 ]

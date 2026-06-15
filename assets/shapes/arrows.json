@@ -522,5 +522,53 @@
     },
     "nativePptx": "native/shape_captured_1762111103642.pptx",
     "nativeOnly": true
+  },
+  {
+    "id": "captured-freeform-2-ml9d3c7y",
+    "name": "Conexto e Desafios v2",
+    "category": "arrows",
+    "description": "Contexto e Desafios: poligono no contexto e shout-phrase",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "freeform"
+    ],
+    "preview": "arrows/captured-freeform-2-ml9d3c7y.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.197,
+      "y": 1.341,
+      "w": 6.47,
+      "h": 5.384,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1770290223664.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-rounded-rectangle-mhfhl7jj",
+    "name": "Serviços ACN",
+    "category": "arrows",
+    "description": "Captured from PowerPoint (Group) (Type: 5)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "rounded"
+    ],
+    "preview": "arrows/captured-rounded-rectangle-mhfhl7jj.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.505,
+      "y": 1.649,
+      "w": 2.875,
+      "h": 3.976,
+      "adj": [
+        0.041
+      ]
+    },
+    "nativePptx": "native/shape_captured_1761953438615.pptx",
+    "nativeOnly": true
   }
 ]

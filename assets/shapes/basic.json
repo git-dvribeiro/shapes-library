@@ -229,5 +229,73 @@
     },
     "nativePptx": "native/shape_captured_1773092109313.pptx",
     "nativeOnly": true
+  },
+  {
+    "id": "captured-rectangle-21-mm3k5pgg",
+    "name": "Newspaper text",
+    "category": "basic",
+    "description": "Newspaper text, used to represent \"executive quotes\"",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle"
+    ],
+    "preview": "basic/captured-rectangle-21-mm3k5pgg.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 1.526,
+      "y": 2.051,
+      "w": 2.489,
+      "h": 0.521,
+      "rotate": 355.58,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1772116076728.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-rectangle-65-mmbv15zr",
+    "name": "Rotina de Reuniões",
+    "category": "basic",
+    "description": "Rotina de Reuniões - PMO, TMO, Exemplo Entregável",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle"
+    ],
+    "preview": "basic/captured-rectangle-65-mmbv15zr.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.583,
+      "y": 1.536,
+      "w": 8.143,
+      "h": 5.084,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1772618068998.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-group-69-mirwuyb1",
+    "name": "Saneamento OT",
+    "category": "basic",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group"
+    ],
+    "preview": "basic/captured-group-69-mirwuyb1.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 7.553,
+      "y": 1.634,
+      "w": 0.222,
+      "h": 5.134,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1764881468052.pptx",
+    "nativeOnly": true
   }
 ]
