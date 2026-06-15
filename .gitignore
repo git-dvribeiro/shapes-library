@@ -44,3 +44,7 @@ TODO.md
 CAPTURE_*.md
 PREVIEW_*.md
 GETTING_STARTED.md
+
+# Artefatos da biblioteca (gerados/teste) - nao versionar
+library_export_*.zip
+assets/shapes/test.json
