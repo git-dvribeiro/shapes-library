@@ -22,6 +22,54 @@
     "nativeOnly": true
   },
   {
+    "id": "captured-group-182-mnt95oo1",
+    "name": "Abordagem #4",
+    "category": "basic",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group",
+      "182"
+    ],
+    "preview": "basic/captured-group-182-mnt95oo1.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.417,
+      "y": 1.522,
+      "w": 12.551,
+      "h": 5.477,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1775846490319.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-group-284-mqcq3yx4",
+    "name": "Arrows",
+    "category": "basic",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group",
+      "284"
+    ],
+    "preview": "basic/captured-group-284-mqcq3yx4.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 8.152,
+      "y": 2.087,
+      "w": 0.138,
+      "h": 4.823,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1781377398585.pptx",
+    "nativeOnly": true
+  },
+  {
     "id": "captured-rectangle-30-mi34y6ke",
     "name": "Detalhe Abordagem #3",
     "category": "basic",
@@ -133,6 +181,29 @@
       "adj": []
     },
     "nativePptx": "native/shape_captured_1775568783287.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-group-47-moot5pua",
+    "name": "Jornada Projeto #2",
+    "category": "basic",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group"
+    ],
+    "preview": "basic/captured-group-47-moot5pua.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 1,
+      "y": 1.544,
+      "w": 12.917,
+      "h": 5.322,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1777754537384.pptx",
     "nativeOnly": true
   },
   {

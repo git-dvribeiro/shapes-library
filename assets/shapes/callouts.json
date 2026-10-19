@@ -1,7 +1,7 @@
 [
   {
-    "id": "captured-group-3-mhfhm16c",
-    "name": "Disclaimers",
+    "id": "captured-group-13-mord6cq6",
+    "name": "Disclaimers Rev",
     "category": "callouts",
     "description": "Captured from PowerPoint (Group) (Type: 1)",
     "tags": [
@@ -10,16 +10,39 @@
       "rectangle",
       "group"
     ],
-    "preview": "callouts/captured-group-3-mhfhm16c.png",
+    "preview": "callouts/captured-group-13-mord6cq6.png",
     "pptxDefinition": {
       "type": "rectangle",
-      "x": 0.48,
-      "y": 0.575,
-      "w": 6.299,
-      "h": 5.975,
+      "x": 0.417,
+      "y": 0.473,
+      "w": 12.5,
+      "h": 6.375,
       "adj": []
     },
-    "nativePptx": "native/shape_captured_1761953476227.pptx",
+    "nativePptx": "native/shape_captured_1777909100772.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-group-12-mord2e22",
+    "name": "Premissas Gerais",
+    "category": "callouts",
+    "description": "Captured from PowerPoint (Group) (Type: 1)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group"
+    ],
+    "preview": "callouts/captured-group-12-mord2e22.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.417,
+      "y": 0.473,
+      "w": 12.5,
+      "h": 6.595,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1777908915502.pptx",
     "nativeOnly": true
   }
 ]

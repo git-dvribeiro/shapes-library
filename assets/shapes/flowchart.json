@@ -1,5 +1,28 @@
 [
   {
+    "id": "captured-group-4-msyk7rve",
+    "name": "Diagrama Central",
+    "category": "flowchart",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group"
+    ],
+    "preview": "flowchart/captured-group-4-msyk7rve.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.55,
+      "y": 1.7,
+      "w": 12.4,
+      "h": 5.241,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1787051317449.pptx",
+    "nativeOnly": true
+  },
+  {
     "id": "captured-group-9-mnpdaxy6",
     "name": "Make or Buy",
     "category": "flowchart",
@@ -43,6 +66,29 @@
       "adj": []
     },
     "nativePptx": "native/shape_captured_1773164618265.pptx",
+    "nativeOnly": true
+  },
+  {
+    "id": "captured-group-16-mrp8rn8j",
+    "name": "Statements One-pager Frame",
+    "category": "flowchart",
+    "description": "Captured from PowerPoint (Group) (Type: -2)",
+    "tags": [
+      "captured",
+      "basic",
+      "rectangle",
+      "group"
+    ],
+    "preview": "flowchart/captured-group-16-mrp8rn8j.png",
+    "pptxDefinition": {
+      "type": "rectangle",
+      "x": 0.39,
+      "y": 1.518,
+      "w": 12.701,
+      "h": 5.794,
+      "adj": []
+    },
+    "nativePptx": "native/shape_captured_1784311109124.pptx",
     "nativeOnly": true
   },
   {
